@@ -1,12 +1,16 @@
+
 # Olá, meu nome é Murilo 👋
 
-#### Atualmente, sou estudante do Bacharelado em Ciência da Computação da Universidade Estadual do Ceará (UECE)
+
+## 🚀 Sobre mim
+- Busco me aprofundar na área de Engenharia de Software
+- Otimização e Qualidade de Software
+- Foco em desenvolvimento back-end
 
 
-## Sobre mim
+## 🔗 Links
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/murilo-sousa-de-assis-a6b547255/)
 
-#### - Busco me aprofundar na área de Engenharia de Software
-#### - Otimização e Qualidade de Software
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/murilo.sousaz/)
 
-
-
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:murilosz085@gmail.com)
