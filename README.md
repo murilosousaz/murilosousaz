@@ -21,7 +21,7 @@
 ### 📊 Estatísticas
 
 <p>
-[![Murilo GitHub stats](https://github-readme-stats.vercel.app/api?username=murilosousaz&show_icons=true&theme=transparent)
+
   
 <img 
       align="left" 
