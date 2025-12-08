@@ -18,10 +18,6 @@
 
 [![Back end](https://skillicons.dev/icons?i=c,git,java,spring)](https://skillicons.dev)
 
-### 📊 Estatísticas
-
-<p>
-
   
 <img 
       align="left" 
