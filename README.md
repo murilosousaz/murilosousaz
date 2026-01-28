@@ -16,7 +16,7 @@
 
 ## Stacks utilizadas
 
-[![Back end](https://skillicons.dev/icons?i=c,git,java,spring,python)](https://skillicons.dev)
+[![Back end](https://skillicons.dev/icons?i=c,git,java,spring,spring-boot,python,mongo,pandas)](https://skillicons.dev)
 
   
 <img 
